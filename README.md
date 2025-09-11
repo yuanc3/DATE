@@ -4,14 +4,14 @@
     <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 </div> 
 
-<p align="center"><i>🔥 A Plug-and-Play method (TIM) to empower absolute time understanding for Qwen2.5-VL🔥</i></p>
+<p align="center"><i>🔥 A Plug-and-Play method (TIM) to empower absolute time understanding for MRoPE of Qwen2.5-VL🔥</i></p>
 
 <p align="center"><i>🔥 A state-of-the-art video sampling (TASS) for video mllm🔥</i></p>
 
 ![Image](asserts/demo.jpg)
 
 ## 📖 Introduction
-This repository is the official implementation of the paper "DATE: Dynamic Absolute Time Enhancement for Long Video Understanding". We propose a plug-and-play method, **TIM**, to empower **real absolute time understanding** for Qwen2.5-VL. Additionally, we introduce **TASS (Time-Aware Sampling Strategy)**, a state-of-the-art video sampling method that enhances video understanding by selecting frames based on their relevance to the input query.
+This repository is the official implementation of the paper "DATE: Dynamic Absolute Time Enhancement for Long Video Understanding". We propose a plug-and-play method, **TIM**, to empower **real absolute time understanding** for MRoPE of Qwen2.5-VL. Additionally, we introduce **TASS (Time-Aware Sampling Strategy)**, a state-of-the-art video sampling method that enhances video understanding by selecting frames based on their relevance to the input query.
 
 ![Image](asserts/main.jpg)
 
