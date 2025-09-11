@@ -1,5 +1,8 @@
 <h1 align='center'>DATE: Dynamic Absolute Time Enhancement for Long Video Understanding</h1>
 
+<div align='center'>
+    <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+</div> 
 
 <p align="center"><i>🔥 A Plug-and-Play method (TIM) to empower **real absolute time understanding** for Qwen2.5-VL🔥</i></p>
 
