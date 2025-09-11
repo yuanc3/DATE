@@ -1,0 +1,12 @@
+### model
+scaling_factor: 4
+attn_implementation: "flash_attention_2"
+
+### data
+sample_fps: 4
+max_num_frames: 12
+# max_num_frames: 2048
+longsize_resolution: 448
+
+### generate
+do_sample: false
