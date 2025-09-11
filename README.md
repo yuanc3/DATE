@@ -4,7 +4,7 @@
     <a href=''><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 </div> 
 
-<p align="center"><i>🔥 A Plug-and-Play method (TIM) to empower **real absolute time understanding** for Qwen2.5-VL🔥</i></p>
+<p align="center"><i>🔥 A Plug-and-Play method (TIM) to empower absolute time understanding for Qwen2.5-VL🔥</i></p>
 
 <p align="center"><i>🔥 A state-of-the-art video sampling (TASS) for video mllm🔥</i></p>
 
