@@ -17,12 +17,12 @@ This repository is the official implementation of the paper "DATE: Dynamic Absol
 
 ![Image](asserts/tim.jpg)
 
-<!-- ## 📢 News -->
-<!-- * [2025.07.10] 🔥🔥🔥 Paper is available on [Arxiv]()! -->
+## 📢 News
+* [2025.09.12] 🔥🔥🔥 Paper is available on [Arxiv](http://arxiv.org/abs/2509.09263)!
 
 ## 🚀 How to use TIM?
 
-1. Replace the original Qwen2.5-VL's with two lines:
+1. Replace the original Qwen2.5-VL's codes with two lines:
 ```python
 transformers.models.qwen2_5_vl.processing_qwen2_5_vl.Qwen2_5_VLProcessor.__call__ = date_processing_qwen2_5_vl__call__
 transformers.models.qwen2_5_vl.modeling_qwen2_5_vl.Qwen2_5_VLForConditionalGeneration.get_rope_index = date_get_rope_index
