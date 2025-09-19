@@ -18,6 +18,7 @@ This repository is the official implementation of the paper "DATE: Dynamic Absol
 ![Image](asserts/tim.jpg)
 
 ## 📢 News
+* [2025.09.19] 🔥🔥🔥🔥🔥 DATE was rejected by NeurIPS25 due to a reviewer who knows nothing about video understanding.(Jesus🙏)
 * [2025.09.12] 🔥🔥🔥 Paper is available on [Arxiv](http://arxiv.org/abs/2509.09263)!
 
 ## 🚀 How to use TIM?
