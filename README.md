@@ -18,7 +18,7 @@ This repository is the official implementation of the paper "DATE: Dynamic Absol
 ![Image](asserts/tim.jpg)
 
 ## 📢 News
-* [2025.09.19] 🔥🔥🔥🔥🔥 DATE was rejected by NeurIPS25 due to a reviewer who knows nothing about video understanding.(Jesus🙏)
+* [2025.09.19] 🔥🔥🔥🔥🔥 DATE was rejected by NeurIPS25 due to the only negetive reviewer who knows nothing about video understanding and change score from 3 to 2. (Jesus🙏)
 * [2025.09.12] 🔥🔥🔥 Paper is available on [Arxiv](http://arxiv.org/abs/2509.09263)!
 
 ## 🚀 How to use TIM?
@@ -62,3 +62,17 @@ final_timestamps, final_indices = tass_sampling(timestamps, scores, topk=None, m
 ## 📊 Experiments
 ![Image](asserts/results.jpg)
 ![Image](asserts/compare.png)
+
+
+## 📒 Citation
+
+If you find our work useful for your research, please consider citing the paper:
+
+```bash
+@article{yuan2025date,
+  title={DATE: Dynamic Absolute Time Enhancement for Long Video Understanding},
+  author={Yuan, Chao and Yang, Yang and Yang, Yehui and Cheng, Zach},
+  journal={arXiv preprint arXiv:2509.09263},
+  year={2025}
+}
+```
